@@ -113,6 +113,15 @@ Combines predictions from:
 
 ---
 
+## Additional Files
+
+- `app.py` – Streamlit web app for interactive price prediction  
+- `laptop_price_predictor.pkl` – Trained Voting Regressor model  
+- `model_features.pkl` – List of feature names used in model training  
+- `model_files.zip` – Compressed archive containing both `.pkl` files 
+
+---
+
 ## Results
 
 **Model Comparison:**
